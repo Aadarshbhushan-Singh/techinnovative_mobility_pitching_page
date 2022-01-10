@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/techinnovative_mobility_pitching_page/static/css/main.7443ca62.css",
+    "main.js": "/techinnovative_mobility_pitching_page/static/js/main.904d07cb.js",
+    "static/media/logo.png": "/techinnovative_mobility_pitching_page/static/media/logo.e6e51fa61e2d4e9b5584.png",
+    "index.html": "/techinnovative_mobility_pitching_page/index.html",
+    "main.7443ca62.css.map": "/techinnovative_mobility_pitching_page/static/css/main.7443ca62.css.map",
+    "main.904d07cb.js.map": "/techinnovative_mobility_pitching_page/static/js/main.904d07cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7443ca62.css",
+    "static/js/main.904d07cb.js"
+  ]
+}
